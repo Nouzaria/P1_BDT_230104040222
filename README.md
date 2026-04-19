@@ -36,7 +36,7 @@ bigdata-project/
 ### 1. Persiapan Environment Lokal
 - Pastikan Python 3.10+, Git, dan VS Code sudah terinstal.
 - Buka folder proyek ini di VS Code.
-- Buka terminal terintegrasi (gunakan PowerShell Ctrl + \`` atau Ctrl + J`).
+- Buka terminal terintegrasi (gunakan PowerShell Ctrl + ` atau Ctrl + J).
 
 ### 2. Instalasi Library PySpark & PyMongo
 
